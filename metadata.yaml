@@ -1,0 +1,27 @@
+_repo: Neither-Jew-nor-Greek_72000
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guttenberg, Violet
+    gutenberg_agent_id: '54936'
+    url: http://www.gutenberg.org/2009/agents/54936
+description: ''
+gutenberg_issued: '2023-11-01'
+identifiers:
+  gutenberg: '72000'
+language: en
+pgterms:marc904: https://www.google.com/books/edition/Neither_Jew_Nor_Greek/Fd0IAQAAIAAJ?hl=en&gbpv=1&dq=Neither+Jew+nor+Greek&printsec=frontcover
+pgterms:marc905: 20220820034928guttenberg
+pgterms:marc906: '1902'
+pgterms:marc907: GB
+production_note: Chuck Greif and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from scanned images of public domain material from the Google
+  Books project.)
+publication_note: '  $aLondon :$bChatto & Windus, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Neither Jew nor Greek
+url: http://www.gutenberg.org/ebooks/72000
